@@ -1,0 +1,7 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.addExports": [
+    "javax.swing",
+    "java.awt"
+    ],
+}
